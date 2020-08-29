@@ -1,2 +1,2 @@
-hellow world
-git is free software distributed under the GPl.
+Git is a distributed version control system.
+Git is free software distrbuted under the GPL.
